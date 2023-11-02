@@ -1,6 +1,6 @@
 # Space Mission
 
-Current Address [Live Link](https://main--velvety-blini-fa7e84.netlify.app/)
+Current Portal Address [Live Link](https://main--velvety-blini-fa7e84.netlify.app/)
 
 ## Table of contents
 
@@ -11,11 +11,11 @@ Current Address [Live Link](https://main--velvety-blini-fa7e84.netlify.app/)
   - [Server](#server)
   - [Portal Frontend](#portal-frontend)
     - [Run this project locally](#run-this-project-locally)
-  - [Testing](#testing)
   - [Projects](#projects)
     - [Circuitry](#circuitry)
     - [Applications](#applications)
   - [Things to consider](#things-to-consider)
+  - [Regulations](#regulations)
 
 ## General info
 
@@ -62,11 +62,6 @@ Share data and designs between users.
 3. `npm install`
 4. `npm start`
 
-## Testing
-
-API tests run through Insomnia testing suit.
-Check server dir for test files.
-
 ## Projects
 
 1. Rocket Design
@@ -99,3 +94,14 @@ Each will be a separate program to increase speed and less page navigation requi
 - Redundant control systems
 - Weight of payload
 - Launch location - close to equator = faster at launch
+
+## Regulations
+
+1. Launches of rocket motors under 160Ns are not required to inform air space control
+   1. The height of this launch being around 1000ft
+2. Launces of rocket motors between 160 and 10000Ns are required to notify air space CAA
+   1. You must notify the air space
+   2. You must do due diligence on the surrounding area
+   3. You must prepare a flight plan
+   4. You must have safety procedures in place.
+   5. Technically there is no height limit just power limit.
